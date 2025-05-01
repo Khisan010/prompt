@@ -1,0 +1,5 @@
+let ism=prompt("ism kirit")
+let yosh=prompt("yoshingizni kiriting")
+let man=prompt("manzil kirit")
+let end=confirm("tochnami?")
+alert(`mening ismim ${ism} yoshim ${yosh} da, manilim ${man}`)
